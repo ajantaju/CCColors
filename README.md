@@ -12,7 +12,7 @@ CC Colors - Public Domain Dedication
 >[!TIP]
 > When using Electromagnetic Spectrum, feel free to modify it as needed for your projects and applications.
 
->[NOTE]
+>[!NOTE]
 >Acknowledgments:
 We acknowledge the importance of Electromagnetic Spectrum in our daily lives. By dedicating this work to the public domain, we aim to promote collaboration, innovation, and creativity across all fields that rely on Electromagnetic Spectrum.
 
